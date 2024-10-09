@@ -10,6 +10,6 @@ In this assignment, I implemented the following algorithms:
 - **Depth First Traversal:** Implemented using recursion to explore nodes and edges in a graph.
 - **Breadth First Traversal:** Implemented using a queue to systematically explore nodes level by level.
 
-### Grade Received: 95%
+**Grade Received: 95%**
 
 This assignment showcases my ability to apply algorithmic concepts to solve complex problems in graph theory and data structures.
