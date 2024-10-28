@@ -1,6 +1,6 @@
 This repository contains my coursework assignment for the Algorithms and Data Structures module, completed during my second year of Computer Science at TU Dublin.
 
-### Assignment Overview
+# Assignment Overview
 
 In this assignment, I implemented the following algorithms:
 
